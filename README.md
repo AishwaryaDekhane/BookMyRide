@@ -1,0 +1,2 @@
+# BookMyRide
+This Online Booking project deals with an online system designed for booking vehicle as per the requirements of the customers at their convenience.  The current system is manual. We give customer satisfaction the utmost priority and so give ample options to book vehicle by entering details like their journey origin, pick-up point, destination and the drop-off point they need to reach.
